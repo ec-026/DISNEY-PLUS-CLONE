@@ -20,7 +20,6 @@
     <li><a href="https://#/">Javascript</a></li>
   <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://styled-components.com">Styled Components</a></li>
-        <li><a href="https://react-redux.js.org">Redux</a></li>
   </ul>
 </details>
 
